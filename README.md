@@ -1,5 +1,6 @@
 # Financial-Education
 Financial Education is a fun, interactive p5.js app where users track expenses, take quizzes, and build smart money habits through games, tips, and savings goals.
+<div align="center">
 
 # Image Gallery
 
@@ -31,3 +32,5 @@ Financial Education is a fun, interactive p5.js app where users track expenses, 
 **Summary**
 
 ![Screenshot 2025-06-22 165021](https://github.com/user-attachments/assets/77b2ee92-d033-4fb6-9c81-0cc86056f059)
+
+</div>
